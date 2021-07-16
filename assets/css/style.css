@@ -245,6 +245,13 @@ text-align: center;
     width: 100%;
 }
 
+.form-section {
+    clear: left;
+    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+
 
 /* media queries */
 
@@ -335,3 +342,4 @@ text-align: center;
         column-count: 2;
     }
 }
+
